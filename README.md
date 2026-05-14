@@ -1,4 +1,4 @@
- IT Support Lab
+ # IT Support Lab
 
 This repository documents my hands-on IT support learning journey while preparing for the CompTIA A+ certification.
 
@@ -12,6 +12,7 @@ The goal of this lab is to build practical troubleshooting skills commonly used 
 - Remote support tools
 - Command-line diagnostics
 - Ticketing system practice
+- Documentation and troubleshooting workflows
 
 ## Tools Used
 
@@ -21,6 +22,7 @@ The goal of this lab is to build practical troubleshooting skills commonly used 
 - Spiceworks
 - Command Prompt
 - PowerShell
+- GitHub
 
 ## Current Focus
 
@@ -28,3 +30,5 @@ The goal of this lab is to build practical troubleshooting skills commonly used 
 - Help Desk troubleshooting
 - Networking diagnostics
 - Windows support workflows
+
+This repository will continue to grow as I complete more labs and practical exercises.
